@@ -1,5 +1,5 @@
 # Zakia MAHMOUDI
-* Data scientist | Master's degree + Engineer's degree in "Information Systems Engineering and Management" | Machine Learning | Deep Learning | Computer Vision | NLP | Statistics | Web Scrapping | Python | SQL | Excel |
+Data scientist | Master's degree + Engineer's degree in "Information Systems Engineering and Management" | Machine Learning | Deep Learning | Computer Vision | NLP | Statistics | Web Scrapping | Python | SQL | Excel |
 
 # Education
 * Master’s degree in "Information Systems Engineering and Management" | National Polytechnic School of Oran | 2021.
