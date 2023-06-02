@@ -44,9 +44,11 @@ This work aims to create a film recommendation system that integrates non-person
 The objective of this project is to exploit the potential of the OpenAI GPT-2 model, to build a system for generating film synopses based on two large datasets known worldwide : Wikipedia Movie Plots (~35,000 movies descriptions) & The Movies Dataset (Metadata on over 45,000 movies from MovieLens)
 
 
+
 ## Contact
+-----
 * You can contact me through my email address : **zakiamahmoudiii@gmail.com** or my phone number : **+213673722644**
 * Linkedin Account : https://www.linkedin.com/in/zakia-mahmoudi-276b8923a/
 * GitHub Account : https://github.com/Zakia-M
 
-Check my [resume](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
+Check my resume [here](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
