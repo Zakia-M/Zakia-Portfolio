@@ -44,6 +44,9 @@ This work aims to create a film recommendation system that integrates non-person
 The objective of this project is to exploit the potential of the OpenAI GPT-2 model, to build a system for generating film synopses based on two large datasets known worldwide : Wikipedia Movie Plots (~35,000 movies descriptions) & The Movies Dataset (Metadata on over 45,000 movies from MovieLens)
 
 
+*****
+++++++
+______
 
 ## Contact
 -----
