@@ -27,17 +27,18 @@ Data scientist | Master's degree + Engineer's degree in "Information Systems Eng
 # [Project 1: SpaceX Falcon-9 first stage Landing Prediction](https://github.com/Zakia-M/SpaceX-Falcon-9-first-stage-Landing-Prediction)
 ![alt text](rocket landing.gif)
 
-In this project, we will predict if the Falcon 9 first stage will land successfully.
+The aim of this project, is to predict if the Falcon 9 first stage will successfully land.
 
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 
-# [Project 2: ](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+# [Project 2: Building a Movie Recommendation System](https://github.com/Zakia-M/Building-a-Movie-Recommendation-System)
+![alt text](1.jpg)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+You can check my [resume](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
+
+You can contact me through my email address : zakiamahmoudiii@gmail.com
+
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
