@@ -25,7 +25,7 @@ Data scientist | Master's degree + Engineer's degree in "Information Systems Eng
 
 
 # [Project 1: SpaceX Falcon-9 first stage Landing Prediction](https://github.com/Zakia-M/SpaceX-Falcon-9-first-stage-Landing-Prediction)
-![alt text](rocket landing.gif)
+![rocket landing](rocket landing.gif)
 
 The aim of this project, is to predict if the Falcon 9 first stage will successfully land.
 
@@ -33,12 +33,20 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 
 
 # [Project 2: Building a Movie Recommendation System](https://github.com/Zakia-M/Building-a-Movie-Recommendation-System)
-![alt text](1.JPG)
+![recommandation screenshot](1.JPG)
+
+This work aims to create a film recommendation system that integrates non-personalized recommendation techniques, based on popularity and association rules, and personalized techniques based on: collaborative filtering, user profile and synopsis of the films. In order to generate relevant recommendations for the user.
 
 
-You can check my [resume](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
+# [Project 3: Using the GPT 2 model for movie synopsis generation](https://github.com/Zakia-M/Using-the-GPT-2-model-for-movie-synopsis-generation)
+![gpt-generation](gpt-generation.gif)
 
-You can contact me through my email address : **zakiamahmoudiii@gmail.com**
+The objective of this project is to exploit the potential of the OpenAI GPT-2 model, to build a system for generating film synopses based on two large datasets known worldwide : Wikipedia Movie Plots (~35,000 movies descriptions) & The Movies Dataset (Metadata on over 45,000 movies from MovieLens)
 
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+## Contact
+You can contact me through my email address : **zakiamahmoudiii@gmail.com** or my phone number : **+213673722644**
+Linkedin Account : https://www.linkedin.com/in/zakia-mahmoudi-276b8923a/
+GitHub Account : https://github.com/Zakia-M
+
+Check my [resume](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
