@@ -27,13 +27,12 @@ Data scientist | Master's degree + Engineer's degree in "Information Systems Eng
 # [Project 1: SpaceX Falcon-9 first stage Landing Prediction](https://github.com/Zakia-M/SpaceX-Falcon-9-first-stage-Landing-Prediction)
 ![alt text](rocket landing.gif)
 
+In this project, we will predict if the Falcon 9 first stage will land successfully.
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+
+# [Project 2: ](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
