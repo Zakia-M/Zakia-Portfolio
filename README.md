@@ -2,16 +2,18 @@
 Data scientist | Master's degree + Engineer's degree in "Information Systems Engineering and Management" | Machine Learning | Deep Learning | Computer Vision | NLP | Statistics | Web Scrapping | Python | SQL | Excel |
 
 # Education
-Master’s degree in "Information Systems Engineering and Management" - National Polytechnic School of Oran.(2021)
-Engineer’s degree in "Information Systems Engineering and Management" - National Polytechnic School of Oran. (2016-2021)
-Baccalaureate in Mathematics - High School of Aït Yahia Moussa. (2013-2016)
+* Master’s degree in "Information Systems Engineering and Management" - National Polytechnic School of Oran.(2021)
+* Engineer’s degree in "Information Systems Engineering and Management" - National Polytechnic School of Oran. (2016-2021)
+* Baccalaureate in Mathematics - High School of Aït Yahia Moussa. (2013-2016)
 
 # Specializations and Courses
 ## Specializations :
 *	IBM Data Science Professional Certificate. (IBM, Coursera)
 *	Data Science Fundamentals with Python and SQL. (IBM, Coursera)
 *	Excel Skills for Business. (Macquarie University, Coursera)
-*	TensorFlow Developer Professional Certificate. (DeepLearning.AI, Coursera)</br>
+*	TensorFlow Developer Professional Certificate. (DeepLearning.AI, Coursera)
+
+
 ## Courses :
 * Convolutional Neural Networks with TensorFlow in Python. (365 Data Science)
 *	A/B Testing in Python. (365 Data Science)
