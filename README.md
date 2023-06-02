@@ -2,9 +2,9 @@
 Data scientist | Master's degree + Engineer's degree in "Information Systems Engineering and Management" | Machine Learning | Deep Learning | Computer Vision | NLP | Statistics | Web Scrapping | Python | SQL | Excel |
 
 # Education
-* Master’s degree in "Information Systems Engineering and Management" | National Polytechnic School of Oran | 2021.
-*	Engineer’s degree in "Information Systems Engineering and Management" | National Polytechnic School of Oran | 2016-2021.
-*	Baccalaureate in Mathematics | High School of Aït Yahia Moussa | 2013-2016.
+Master’s degree in "Information Systems Engineering and Management" | National Polytechnic School of Oran | 2021.
+Engineer’s degree in "Information Systems Engineering and Management" | National Polytechnic School of Oran | 2016-2021.
+~ Baccalaureate in Mathematics | High School of Aït Yahia Moussa | 2013-2016.
 
 # Specializations and Courses
 ## Specializations :
