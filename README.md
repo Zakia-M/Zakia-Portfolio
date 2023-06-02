@@ -45,8 +45,8 @@ The objective of this project is to exploit the potential of the OpenAI GPT-2 mo
 
 
 ## Contact
-You can contact me through my email address : **zakiamahmoudiii@gmail.com** or my phone number : **+213673722644**
-Linkedin Account : https://www.linkedin.com/in/zakia-mahmoudi-276b8923a/
-GitHub Account : https://github.com/Zakia-M
+* You can contact me through my email address : **zakiamahmoudiii@gmail.com** or my phone number : **+213673722644**
+* Linkedin Account : https://www.linkedin.com/in/zakia-mahmoudi-276b8923a/
+* GitHub Account : https://github.com/Zakia-M
 
 Check my [resume](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
