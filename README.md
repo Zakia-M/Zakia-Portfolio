@@ -54,4 +54,4 @@ The objective of this project is to exploit the potential of the OpenAI GPT-2 mo
 * Linkedin Account : [https://www.linkedin.com/in/zakia-mahmoudi-276b8923a/](https://www.linkedin.com/in/zakia-mahmoudi-276b8923a/)
 * GitHub Account : [https://github.com/Zakia-M](https://github.com/Zakia-M)
 
-Check my resume [here](https://github.com/Zakia-M/Zakia-Portfolio/blob/main/Resume%20_%20Zakia%20Mahmoudi_f.pdf)
+Check my resume [here](https://github.com/Zakia-M/Zakia-Portfolio/blob/dd8865f96ee3975af16ad2694bba172d887f6fec/Resume%20_%20Zakia%20Mahmoudi_.pdf)
